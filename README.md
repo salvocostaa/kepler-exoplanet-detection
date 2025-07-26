@@ -77,7 +77,7 @@ python src/predict_exoplanets.py
 
 Each prediction is visualized as a `.png` plot showing the model's decision.
 
-![Esempio di plot](results/plot.png)
+![Esempio di plot](result/plot.png)
 
 ---
 
